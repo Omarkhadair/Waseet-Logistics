@@ -1,0 +1,5 @@
+service_code,service_name,promised_hours
+SDD,Same Day,8
+EXP,Express,24
+STD,Standard,72
+ECO,Economy,120
